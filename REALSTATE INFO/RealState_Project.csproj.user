@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Agent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgentDetailsWithWorkingprocject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AVALAIBLEAGENTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Departments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee Details With Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Projects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyForRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyWhichAreAvailableForRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyWhichAreAvailableForSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Realstate_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesForRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyForSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
